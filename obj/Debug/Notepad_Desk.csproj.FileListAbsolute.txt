@@ -1,0 +1,10 @@
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\bin\Debug\Notepad_Desk.exe.config
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\bin\Debug\Notepad_Desk.exe
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\bin\Debug\Notepad_Desk.pdb
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.csproj.AssemblyReference.cache
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.Form1.resources
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.Properties.Resources.resources
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.csproj.GenerateResource.cache
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.csproj.CoreCompileInputs.cache
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.exe
+F:\MCA SEM-3\C#\PRACTICE\Notepad_Desk\obj\Debug\Notepad_Desk.pdb
